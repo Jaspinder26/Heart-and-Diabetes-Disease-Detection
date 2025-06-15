@@ -83,10 +83,6 @@ Heart-and-Diabetes-Disease-Detection/
 Contributions, issues and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/Jaspinder26/Heart-and-Diabetes-Disease-Detection/issues).
 
-## License
 
-This project is [MIT](LICENSE) licensed.
-
----
 
 **Note:** _This project is for educational and research purposes only and should not be used for actual medical diagnosis without validation by healthcare professionals._
